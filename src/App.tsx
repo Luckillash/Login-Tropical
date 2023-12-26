@@ -106,7 +106,7 @@ function App() {
 
 				<span className="star"></span>
 
-				<span></span> 
+				<span className="star"></span> 
 
 			</section>
 
