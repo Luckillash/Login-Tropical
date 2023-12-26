@@ -72,7 +72,7 @@ function App() {
 
 		<main className='bg-gradient-to-bl from-blue-500 to-emerald-500 w-full h-screen flex'>
 
-			<section className="w-1/2 flex items-center justify-center">
+			<section className="w-1/2 flex items-center justify-center relative">
 
 				<h1 
 				
@@ -88,25 +88,25 @@ function App() {
 					
 				</h1>
 
-				<span></span>
+				<span className="star"></span>
 
-				<span></span>
+				<span className="star"></span>
 
-				<span></span>
+				<span className="star"></span>
 
-				<span></span>
+				<span className="star"></span>
 
-				<span></span>
+				<span className="star"></span>
 
-				<span></span>
+				<span className="star"></span>
 
-				<span></span>
+				<span className="star"></span>
 
-				<span></span>
+				<span className="star"></span>
 
-				<span></span>
+				<span className="star"></span>
 
-				<span></span>
+				<span></span> 
 
 			</section>
 
